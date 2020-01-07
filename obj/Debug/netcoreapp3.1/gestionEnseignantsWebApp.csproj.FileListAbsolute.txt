@@ -1,0 +1,86 @@
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.csprojAssemblyReference.cache
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\gestionEnseignantsWebApp.StaticWebAssets.Manifest.cache
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\gestionEnseignantsWebApp.StaticWebAssets.xml
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorAssemblyInfo.cache
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorAssemblyInfo.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.AssemblyInfoInputs.cache
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.AssemblyInfo.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.exe
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.deps.json
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.runtimeconfig.json
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.runtimeconfig.dev.json
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.dll
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.pdb
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.Views.dll
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.Views.pdb
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.TagHelpers.input.cache
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.TagHelpers.output.cache
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorCoreGenerate.cache
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.Views.pdb
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.csproj.CopyComplete
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.dll
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.pdb
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Enseignants\Edit.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Enseignants\Enseignants.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\Laraki El Ghali_Dotnet_Exam\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Enseignants\FormEnseignant.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.exe
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.deps.json
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.runtimeconfig.json
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.runtimeconfig.dev.json
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.dll
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.pdb
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.Views.dll
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\gestionEnseignantsWebApp.Views.pdb
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.csprojAssemblyReference.cache
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\gestionEnseignantsWebApp.StaticWebAssets.Manifest.cache
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\gestionEnseignantsWebApp.StaticWebAssets.xml
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorAssemblyInfo.cache
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorAssemblyInfo.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.AssemblyInfoInputs.cache
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.AssemblyInfo.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.TagHelpers.input.cache
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.TagHelpers.output.cache
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorCoreGenerate.cache
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Enseignants\Edit.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Enseignants\Enseignants.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Enseignants\FormEnseignant.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.Views.pdb
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.csproj.CopyComplete
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.dll
+C:\Users\ghalilaraki\Desktop\El Ghali Laraki\Mes Projets\gestionEnseignantsWebApp\obj\Debug\netcoreapp3.1\gestionEnseignantsWebApp.pdb

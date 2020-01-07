@@ -1,0 +1,42 @@
+@model IEnumerable<gestionEnseignantsWebApp.Models.Enseignant>
+@{
+ViewData["title"]= "Liste des enseignants";
+}
+
+<div class="container spacer">
+<form method="post" asp-controller="Enseignants" asp-action="search" >
+<div class="form-group">
+<label>Mot Clé:</label>
+<input type="text" name="kw" value="@Html.ViewBag.kw"/>
+<button type="submit">Chercher</button>
+@Html.ValidationMessage("kw", new { @class="text-danger"})
+</div>
+</form>
+</div>
+<table class="table table-striped" >
+<thead>
+<tr>
+<th>@Html.DisplayNameFor(model=>model.EnseignantID)</th>
+<th>@Html.DisplayNameFor(model => model.Name)</th>
+<th>@Html.DisplayNameFor(model => model.Departement)</th>
+</tr>
+</thead>
+<tbody>
+@foreach (var e in Model)
+{
+<tr>
+<td>@Html.DisplayFor(modelItem=>e.EnseignantID)</td>
+<td>@Html.DisplayFor(modelItem => e.Name)</td>
+<td>@Html.DisplayFor(modelItem => e.Departement.Name)</td>
+<td><a asp-action="Edit" asp-route-id="@e.EnseignantID">Edit</a></td>
+<td>
+<a asp-action="Delete" asp-route-id="@e.EnseignantID"
+onclick="return confirm('êtes vous sûre de vouloir supprimer?');">Delete</a>
+</td>
+</tr>
+}
+</tbody>
+</table>
+<div class="container spacer">
+<a asp-controller="Enseignants" asp-action="FormEnseignant">Nouveau Enseignant</a>
+</div>

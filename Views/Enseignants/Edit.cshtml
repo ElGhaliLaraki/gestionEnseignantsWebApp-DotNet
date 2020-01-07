@@ -1,0 +1,30 @@
+@model gestionEnseignantsWebApp.Models.Enseignant
+@{
+ViewData["title"]= "Modification enseignant";
+}
+
+<div class="container spacer">
+    <h2>Edit Enseignant</h2>
+    <form method="POST" asp-action ="UpDate">
+        <div class="form group" >
+            @Html.LabelFor(model => model.EnseignantID, new {@class="control-label"})
+            :<label>@Model.EnseignantID</label>
+            @Html.HiddenFor(model => model.EnseignantID, new {@class="form-control"})
+            @Html.ValidationMessageFor( model => model.EnseignantID,"", new { @class = "text-danger"})
+        </div>
+        <div class="form group" >
+            @Html.LabelFor(model => model.Name, new {@class="control-label"})
+            @Html.TextBoxFor(model => model.Name, new {@class="form-control"})
+            @Html.ValidationMessageFor( model => model.Name,"", new { @class = "text-danger"})
+        </div>
+        <div class="form group" >
+            @Html.LabelFor(model => model.Departement, new {@class="control-label"})
+            @Html.TextBoxFor(model => model.Departement.Name, new {@class="form-control"})
+            @Html.ValidationMessageFor( model => model.Departement.Name,"", new { @class = "text-danger"})
+        </div>
+        <div>
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+             
+    </form>
+</div>
